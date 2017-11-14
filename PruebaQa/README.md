@@ -22,3 +22,4 @@ npm run clean - cleans the target/ directory, where the reports are generated
 #recomendaciones
 npm install protractor  instalar en caso de no reconocer comandos
 serenity-manager update sirve para actualizar geckodriver y webdriver
+npm install serenity-cli --save-dev en caso de no generar el reporte correctamente
