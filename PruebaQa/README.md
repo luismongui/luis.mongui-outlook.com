@@ -1,10 +1,8 @@
-# Serenity/JS Cucumber seed
+# Serenity/JS Cucumber
 
-You can use this repository as a starting point for your [Serenity/JS](http://serenity-js.org)
-and [Cucumber](https://github.com/cucumber/cucumber-js) projects.
-[Clone](https://help.github.com/articles/cloning-a-repository/) and enjoy!
+manejo de serenity js
 
-To learn more about Serenity/JS, check out [serenity-js.org](http://serenity-js.org).
+
 
 ## Prerequisites
  
@@ -19,13 +17,8 @@ npm install   - Installs the dependencies
 npm test      - Runs the tests and creates a test execution report
                 (it will also download WebDriver and the Serenity BDD CLI jar for you)
 npm run clean - cleans the target/ directory, where the reports are generated                     
-```
 
-## Your feedback matters!
 
-Do you find this project useful? Give it a star! &#9733;
-
-Found a bug? Need a feature? Raise [an issue](https://github.com/serenity-js/seed-cucumber/issues?state=open)
-or submit a pull request.
-
-Have feedback? Let me know on twitter: [@JanMolak](https://twitter.com/JanMolak)
+#recomendaciones
+npm install protractor  instalar en caso de no reconocer comandos
+serenity-manager update sirve para actualizar geckodriver y webdriver
